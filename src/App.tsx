@@ -13,11 +13,11 @@ const App: Component = () => {
         </p>
         <a
           class={styles.link}
-          href="https://github.com/solidjs/solid"
+          href="https://alexdoesvoices.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Solid
+          Main Website
         </a>
       </header>
     </div>
