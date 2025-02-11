@@ -31,6 +31,6 @@
     transform: rotate(360deg);
   }
 }
-p {
+p,a{
   font-family: Poppins;
 }

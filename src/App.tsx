@@ -11,6 +11,9 @@ const App: Component = () => {
         <p>
           This is the Alexdoesvoices Dev Site
         </p>
+        <p>
+          This is my attempt to learn solid.js
+        </p>
         <a
           class={styles.link}
           href="https://alexdoesvoices.com"
@@ -19,6 +22,7 @@ const App: Component = () => {
         >
           Main Website
         </a>
+       
       </header>
     </div>
   );
