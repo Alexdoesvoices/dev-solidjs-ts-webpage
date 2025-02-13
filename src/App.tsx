@@ -12,7 +12,7 @@ const App: Component = () => {
           This is the Alexdoesvoices Dev Site
         </p>
         <p>
-          This is my attempt to learn solid.js
+          This is my attempt to learn solid.js!!!
         </p>
         <a
           class={styles.link}
