@@ -9,7 +9,7 @@ const App: Component = () => {
       <header class={styles.header}>
         <img src={logo} class={styles.logo} alt="logo" />
         <p>
-          This is the Alexdoesvoices Dev Site
+          This is the Alexdoesvoices Dev Site.
         </p>
         <p>
           This is my attempt to learn solid.js!!
