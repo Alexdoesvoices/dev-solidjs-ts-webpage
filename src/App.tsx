@@ -20,7 +20,7 @@ const App: Component = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Main Website
+          Main Website!
         </a>
        
       </header>
